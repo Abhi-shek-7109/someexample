@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+
+body{
+    
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }
+
+  .form1{
+    padding: 10px;
+    margin: 10px;
+
+  }
+  .enquire{
+    text-align: center;
+    font-style: oblique;
+  }
+  .cards1{
+    margin: 10px;
+  }
+  .card2{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+  }
+  .card-title{
+    text-align: center;
+  }
+  .card-group{
+    margin: 50px;
+  }
+
+  .Introduction{
+    margin: 20px;
+    text-align: center;
+    font-family: 'Ysabeau SC', sans-serif;
+    color: blue;
+    border: 5px dotted rgb(0, 157, 255);
+    padding: 5px;
+    
+  }
+  .container-fluid{
+    margin: 0px;
+    padding: 0px;
+
+  }
+  .progress{
+    margin: 20px;
+  }
+
+  .navbar-brand{
+    font-family: 'Rock Salt', cursive;
+  }
+
+  .products{
+    margin: 30px;
+    text-align: center;
+  }
+  ol{
+    text-align: left;
+  }
+  .card{
+    padding: 25px;
+  }
+
+  .container-1{
+    max-width: 50%;
+
+  }
+ .photo{
+  background-color: rgb(74, 246, 249, 0.4);
+  margin: 20px;
+  border: 2px solid #efefef;
+ }
+
+ .image{
+  max-width: 300px;
+  border-radius: 50%;
+  float:right;
+  margin-left: 30px;
+  max-height: 200px;
+ }
+
+
+ .border-dark{
+  background-color: rgb(255, 228, 196, 0.3);
+  max-width: 600px;
+  font-weight:500;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+
+  
